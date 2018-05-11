@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526068011 source:c:\test\gferrer\parcial1\1er_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1526068055 c:\test\gferrer\parcial1\1er_parcial\funciones.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1526068054 source:c:\test\gferrer\parcial1\1er_parcial\funciones.c
+	"funciones.h"
+
